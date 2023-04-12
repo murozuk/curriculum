@@ -15,7 +15,7 @@
 
 
 答.switch1 F0/1→DP F0/2→RP      switch2  F0/1→RP F0/2BP
-   switch3 E0/1→DP E0/2→DP      switch4  E0/1→BP E0/2→RP
+   switch3 E0/1→DP E0/2→DP      switch4  E0/1→DP E0/2→RP
 
 switch1のF0/1はswitch2のF0/1がRPであり向かいのポートのためDP。F0/2はルートブリッジに近いためRP
 switch2のF0/1はルートブリッジに近いためRP。F0/2はRPにもDPにも該当しないためBP。
